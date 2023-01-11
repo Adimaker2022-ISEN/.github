@@ -12,4 +12,4 @@ Linux est mon système d'exploitation et je me souviens de tout avec MongoDB
 
 Ce projet est un projet Adimaker
 
-![1673472092129](image/README/1673472092129.png)
+![logo-adimaker-01-1024x519](https://user-images.githubusercontent.com/46867831/211920895-989ba0ca-7b36-4fa6-aa01-435ff4161347.jpg)
