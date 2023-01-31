@@ -12,4 +12,7 @@ Linux est mon système d'exploitation et je me souviens de tout avec MongoDB
 
 Ce projet est un projet Adimaker
 
-![logo-adimaker-01-1024x519](https://user-images.githubusercontent.com/46867831/211920895-989ba0ca-7b36-4fa6-aa01-435ff4161347.jpg)
+<img src="https://user-images.githubusercontent.com/46867831/211920895-989ba0ca-7b36-4fa6-aa01-435ff4161347.jpg"  width="60%" height="30%">
+
+### For non French speakers
+The software hosted here is mainly written and documented in French. We may decide in the future to translate the documentation, feel free to open an issue
